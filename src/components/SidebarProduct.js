@@ -9,7 +9,7 @@ export default function SidebarProduct({ item }) {
 
     return (
         <div className="sidebar-product">
-            <img src={item.image} alt={item.name} className="sidebar-img" />
+            <img src={`/the-fab-store/${item.image}`} alt={item.name} className="sidebar-img" />
             <div className="sidebar-info">
                 <h4>{item.name}</h4>
                 <p>Qtd: {item.quantity}</p>

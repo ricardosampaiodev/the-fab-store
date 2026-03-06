@@ -272,7 +272,7 @@ return (
                     {!loading && !error && filteredProducts.map((item) => (
                         <article key={item.id} className="product-card" data-category={item.category}>
                             <div className="product-card-image">
-                                <img src={item.image} alt={item.name} loading="lazy" />
+                                <img src={`/the-fab-store/${item.image}`} alt={item.name} loading="lazy" />
                             </div>
                             
                             <div className="product-card-body">
