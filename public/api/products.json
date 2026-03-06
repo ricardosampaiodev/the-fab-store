@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "category": "vestir",
+        "name": "Camiseta Logo Preta",
+        "price": 89.90,
+        "review": "5.0 (4.2k)",
+        "image": "./img/tshirt-classic-logo-black.webp"
+    },
+    {
+        "id": 2,
+        "category": "vestir",
+        "name": "Camiseta Help!",
+        "price": 89.90,
+        "review": "4.8 (3.4k)",
+        "image": "./img/tshirt-help.webp"
+    },
+    {
+        "id": 3,
+        "category": "vestir",
+        "name": "Camiseta Faces Minimalistas",
+        "price": 94.90,
+        "review": "5.0 (3.9k)",
+        "image": "./img/tshirt-faces-minimalist-white.webp"
+    },
+    {
+        "id": 4,
+        "category": "vestir",
+        "name": "Camiseta With The Beatles",
+        "price": 94.90,
+        "review": "5.0 (2.5k)",
+        "image": "./img/tshirt-with-the-beatles.webp"
+    },
+    {
+        "id": 5,
+        "category": "vestir",
+        "name": "Manga Longa Abbey Road",
+        "price": 119.90,
+        "review": "4.8 (2.6k)",
+        "image": "./img/longsleeve-abbey-road-blue.webp"
+    },
+    {
+        "id": 6,
+        "category": "vestir",
+        "name": "Moletom Revolver",
+        "price": 189.90,
+        "review": "4.9 (2.8k)",
+        "image": "./img/hoodie-revolver-white.webp"
+    },
+    {
+        "id": 7,
+        "category": "ouvir",
+        "name": "Vinil The Beatles 1",
+        "price": 199.90,
+        "review": "4.8 (1.2k)",
+        "image": "./img/vinyl-the-beatles-1.webp"
+    },
+    {
+        "id": 8,
+        "category": "ouvir",
+        "name": "Vinil Rubber Soul",
+        "price": 249.00,
+        "review": "5.0 (5.1k)",
+        "image": "./img/vinyl-rubber-soul.webp"
+    },
+    {
+        "id": 9,
+        "category": "ouvir",
+        "name": "Vinil Let It Be",
+        "price": 289.00,
+        "review": "4.9 (6.3k)",
+        "image": "./img/vinyl-let-it-be.webp"
+    },
+    {
+        "id": 10,
+        "category": "ouvir",
+        "name": "Vinil Revolver",
+        "price": 265.00,
+        "review": "5.0 (4.9k)",
+        "image": "./img/vinyl-revolver-album.webp"
+    },
+    {
+        "id": 11,
+        "category": "ouvir",
+        "name": "Vinil Beatles For Sale",
+        "price": 249.00,
+        "review": "4.7 (1.1k)",
+        "image": "./img/vinyl-beatles-for-sale.webp"
+    },
+    {
+        "id": 12,
+        "category": "ouvir",
+        "name": "Vinil Sgt. Pepper's",
+        "price": 299.00,
+        "review": "5.0 (5.2k)",
+        "image": "./img/vinyl-sgt-peppers.webp"
+    },
+    {
+        "id": 13,
+        "category": "colecionar",
+        "name": "Quadro Show Shea Stadium",
+        "price": 70.00,
+        "review": "4.7 (8.3k)",
+        "image": "./img/poster-street-walking-bw.webp"
+    },
+    {
+        "id": 14,
+        "category": "colecionar",
+        "name": "Quadro With The Beatles",
+        "price": 120.00,
+        "review": "4.9 (1.8k)",
+        "image": "./img/poster-with-the-beatles-bw.webp"
+    },
+    {
+        "id": 15,
+        "category": "colecionar",
+        "name": "Quadro Abbey Road",
+        "price": 120.00,
+        "review": "4.8 (12.7k)",
+        "image": "./img/poster-abbey-road-crossing.webp"
+    },
+    {
+        "id": 16,
+        "category": "colecionar",
+        "name": "Quadro Yellow Submarine",
+        "price": 120.00,
+        "review": "4.8 (1.2k)",
+        "image": "./img/poster-yellow-submarine.webp"
+    }
+]

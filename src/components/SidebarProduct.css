@@ -1,0 +1,54 @@
+/*--------------------ITENS DENTRO DA SIDEBAR--------------------*/
+.sidebar-product {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.sidebar-product .sidebar-img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+
+.sidebar-product .sidebar-info {
+    flex-grow: 1;
+}
+
+.sidebar-product .sidebar-info h4 {
+    font-size: 0.95rem;
+    margin-bottom: 0.2rem;
+    color: #121212;
+}
+
+.sidebar-product .sidebar-info p {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.2rem;
+}
+
+.sidebar-product .sidebar-info .price {
+    font-weight: bold;
+    color: #121212;
+}
+
+.sidebar-product .btn-remove {
+    background: none;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+.sidebar-product .btn-remove:hover {
+    opacity: 0.8;
+}
+
+.empty-cart {
+    text-align: center;
+    color: #666;
+    margin-top: 2rem;
+    font-style: italic;
+}
